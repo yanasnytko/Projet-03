@@ -1,0 +1,26 @@
+{
+  "name": "projet-3",
+  "version": "1.0.0",
+  "description": "Le projet 3 avec node et react",
+  "main": "index.js",
+  "scripts": {
+    "run-server": "node server/index.js",
+    "run-client": "node client/index.js"
+  },
+  "keywords": [
+    "node",
+    "react",
+    "projet-3"
+  ],
+  "author": "Yana",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express.js": "^1.0.0",
+    "mongodb": "^3.6.2",
+    "mongoose": "^5.10.7",
+    "react": "^16.13.1"
+  }
+}
